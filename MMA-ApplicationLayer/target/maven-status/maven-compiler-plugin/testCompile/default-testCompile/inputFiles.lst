@@ -1,0 +1,10 @@
+/Users/wagblin/app/MovieManagerCore/MMA-ApplicationLayer/src/test/java/com/bcefit/projet/service/user/GenreMovieServiceImplTest.java
+/Users/wagblin/app/MovieManagerCore/MMA-ApplicationLayer/src/test/java/com/bcefit/projet/service/user/GenreTvServiceImplTest.java
+/Users/wagblin/app/MovieManagerCore/MMA-ApplicationLayer/src/test/java/com/bcefit/projet/service/user/StreamingSubscriptionServiceImplTest.java
+/Users/wagblin/app/MovieManagerCore/MMA-ApplicationLayer/src/test/java/com/bcefit/projet/service/user/UserAccountServiceImplTest.java
+/Users/wagblin/app/MovieManagerCore/MMA-ApplicationLayer/src/test/java/com/bcefit/projet/service/watch/WatchEpisodeServiceImplTest.java
+/Users/wagblin/app/MovieManagerCore/MMA-ApplicationLayer/src/test/java/com/bcefit/projet/service/watch/WatchMovieServiceServiceImplTest.java
+/Users/wagblin/app/MovieManagerCore/MMA-ApplicationLayer/src/test/java/com/bcefit/projet/service/wish/WishEpisodeServiceImplTest.java
+/Users/wagblin/app/MovieManagerCore/MMA-ApplicationLayer/src/test/java/com/bcefit/projet/service/wish/WishMovieServiceServiceImplTest.java
+/Users/wagblin/app/MovieManagerCore/MMA-ApplicationLayer/src/test/java/com/bcefit/projet/service/wish/WishSeasonServiceImplTest.java
+/Users/wagblin/app/MovieManagerCore/MMA-ApplicationLayer/src/test/java/com/bcefit/projet/service/wish/WishTvServiceImplTest.java

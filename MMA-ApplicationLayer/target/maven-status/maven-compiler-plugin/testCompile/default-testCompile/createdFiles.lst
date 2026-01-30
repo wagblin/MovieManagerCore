@@ -1,0 +1,10 @@
+com/bcefit/projet/service/wish/WishSeasonServiceImplTest.class
+com/bcefit/projet/service/wish/WishEpisodeServiceImplTest.class
+com/bcefit/projet/service/wish/WishTvServiceImplTest.class
+com/bcefit/projet/service/user/GenreMovieServiceImplTest.class
+com/bcefit/projet/service/watch/WatchEpisodeServiceImplTest.class
+com/bcefit/projet/service/watch/WatchMovieServiceServiceImplTest.class
+com/bcefit/projet/service/user/StreamingSubscriptionServiceImplTest.class
+com/bcefit/projet/service/user/UserAccountServiceImplTest.class
+com/bcefit/projet/service/user/GenreTvServiceImplTest.class
+com/bcefit/projet/service/wish/WishMovieServiceServiceImplTest.class

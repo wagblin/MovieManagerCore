@@ -1,0 +1,13 @@
+com/bcefit/projet/infrastructure/IUserAccountRepositoryTest.class
+com/bcefit/projet/infrastructure/IGenreTvRepositoryTest.class
+com/bcefit/projet/infrastructure/IWishMovieRepositoryTest.class
+com/bcefit/projet/infrastructure/IWatchMovieRepositoryTest.class
+com/bcefit/projet/infrastructure/StreamingSubscriptionRepositoryTest.class
+com/bcefit/projet/infrastructure/ILogginRepositoryTest.class
+com/bcefit/projet/infrastructure/IGenreMovieRepositoryTest.class
+com/bcefit/projet/infrastructure/IWishEpisodeRepositoryTest.class
+com/bcefit/projet/infrastructure/IWatchEpisodesByUserAccountRepositoryTest.class
+com/bcefit/projet/infrastructure/IWishMoviesByUserAccountRepositoryTest.class
+com/bcefit/projet/infrastructure/IWatchMoviesByUserAccountRepositoryTest.class
+com/bcefit/projet/infrastructure/IWishEpisodesByUserAccountRepositoryTest.class
+com/bcefit/projet/infrastructure/IWatchEpisodeRepositoryTest.class

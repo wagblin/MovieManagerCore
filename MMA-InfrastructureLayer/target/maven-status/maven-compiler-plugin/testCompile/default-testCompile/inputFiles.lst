@@ -1,0 +1,13 @@
+/Users/wagblin/app/MovieManagerCore/MMA-InfrastructureLayer/src/test/java/com/bcefit/projet/infrastructure/IGenreMovieRepositoryTest.java
+/Users/wagblin/app/MovieManagerCore/MMA-InfrastructureLayer/src/test/java/com/bcefit/projet/infrastructure/IGenreTvRepositoryTest.java
+/Users/wagblin/app/MovieManagerCore/MMA-InfrastructureLayer/src/test/java/com/bcefit/projet/infrastructure/ILogginRepositoryTest.java
+/Users/wagblin/app/MovieManagerCore/MMA-InfrastructureLayer/src/test/java/com/bcefit/projet/infrastructure/IUserAccountRepositoryTest.java
+/Users/wagblin/app/MovieManagerCore/MMA-InfrastructureLayer/src/test/java/com/bcefit/projet/infrastructure/IWatchEpisodeRepositoryTest.java
+/Users/wagblin/app/MovieManagerCore/MMA-InfrastructureLayer/src/test/java/com/bcefit/projet/infrastructure/IWatchEpisodesByUserAccountRepositoryTest.java
+/Users/wagblin/app/MovieManagerCore/MMA-InfrastructureLayer/src/test/java/com/bcefit/projet/infrastructure/IWatchMovieRepositoryTest.java
+/Users/wagblin/app/MovieManagerCore/MMA-InfrastructureLayer/src/test/java/com/bcefit/projet/infrastructure/IWatchMoviesByUserAccountRepositoryTest.java
+/Users/wagblin/app/MovieManagerCore/MMA-InfrastructureLayer/src/test/java/com/bcefit/projet/infrastructure/IWishEpisodeRepositoryTest.java
+/Users/wagblin/app/MovieManagerCore/MMA-InfrastructureLayer/src/test/java/com/bcefit/projet/infrastructure/IWishEpisodesByUserAccountRepositoryTest.java
+/Users/wagblin/app/MovieManagerCore/MMA-InfrastructureLayer/src/test/java/com/bcefit/projet/infrastructure/IWishMovieRepositoryTest.java
+/Users/wagblin/app/MovieManagerCore/MMA-InfrastructureLayer/src/test/java/com/bcefit/projet/infrastructure/IWishMoviesByUserAccountRepositoryTest.java
+/Users/wagblin/app/MovieManagerCore/MMA-InfrastructureLayer/src/test/java/com/bcefit/projet/infrastructure/StreamingSubscriptionRepositoryTest.java
