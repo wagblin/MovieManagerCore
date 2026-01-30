@@ -1,0 +1,8 @@
+com/bcefit/projet/infrastructure/IGenreTvRepository.class
+com/bcefit/projet/infrastructure/IWatchMovieRepository.class
+com/bcefit/projet/infrastructure/IGenreMovieRepository.class
+com/bcefit/projet/infrastructure/StreamingSubscriptionRepository.class
+com/bcefit/projet/infrastructure/IWishEpisodeRepository.class
+com/bcefit/projet/infrastructure/IUserAccountRepository.class
+com/bcefit/projet/infrastructure/IWishMovieRepository.class
+com/bcefit/projet/infrastructure/IWatchEpisodeRepository.class

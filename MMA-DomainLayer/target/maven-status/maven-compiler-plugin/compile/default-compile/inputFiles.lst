@@ -1,0 +1,10 @@
+/Users/wagblin/app/MovieManagerCore/MMA-DomainLayer/src/main/java/com/bcefit/projet/domain/watch/WatchEpisode.java
+/Users/wagblin/app/MovieManagerCore/MMA-DomainLayer/src/main/java/com/bcefit/projet/domain/wish/WishMovie.java
+/Users/wagblin/app/MovieManagerCore/MMA-DomainLayer/src/main/java/com/bcefit/projet/domain/user/GenreMovie.java
+/Users/wagblin/app/MovieManagerCore/MMA-DomainLayer/src/main/java/com/bcefit/projet/domain/user/GenreTv.java
+/Users/wagblin/app/MovieManagerCore/MMA-DomainLayer/src/main/java/com/bcefit/projet/domain/watch/WatchMovie.java
+/Users/wagblin/app/MovieManagerCore/MMA-DomainLayer/src/main/java/com/bcefit/projet/domain/user/UserAccount.java
+/Users/wagblin/app/MovieManagerCore/MMA-DomainLayer/src/main/java/com/bcefit/projet/domain/watch/WatchContent.java
+/Users/wagblin/app/MovieManagerCore/MMA-DomainLayer/src/main/java/com/bcefit/projet/domain/wish/WishContent.java
+/Users/wagblin/app/MovieManagerCore/MMA-DomainLayer/src/main/java/com/bcefit/projet/domain/user/StreamingSubscription.java
+/Users/wagblin/app/MovieManagerCore/MMA-DomainLayer/src/main/java/com/bcefit/projet/domain/wish/WishEpisode.java

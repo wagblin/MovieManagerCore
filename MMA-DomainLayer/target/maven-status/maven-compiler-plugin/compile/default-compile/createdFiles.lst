@@ -1,0 +1,10 @@
+com/bcefit/projet/domain/user/GenreTv.class
+com/bcefit/projet/domain/wish/WishContent.class
+com/bcefit/projet/domain/watch/WatchMovie.class
+com/bcefit/projet/domain/watch/WatchContent.class
+com/bcefit/projet/domain/user/UserAccount.class
+com/bcefit/projet/domain/wish/WishMovie.class
+com/bcefit/projet/domain/user/GenreMovie.class
+com/bcefit/projet/domain/user/StreamingSubscription.class
+com/bcefit/projet/domain/watch/WatchEpisode.class
+com/bcefit/projet/domain/wish/WishEpisode.class

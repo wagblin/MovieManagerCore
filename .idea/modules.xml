@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MMA-ApplicationLayer/MMA-ApplicationLayer.iml" filepath="$PROJECT_DIR$/MMA-ApplicationLayer/MMA-ApplicationLayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MMA-DomainLayer/MMA-DomainLayer.iml" filepath="$PROJECT_DIR$/MMA-DomainLayer/MMA-DomainLayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MMA-ExpositionLayer/MMA-ExpositionLayer.iml" filepath="$PROJECT_DIR$/MMA-ExpositionLayer/MMA-ExpositionLayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MMA-InfrastructureLayer/MMA-InfrastructureLayer.iml" filepath="$PROJECT_DIR$/MMA-InfrastructureLayer/MMA-InfrastructureLayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/MovieManagerCore.iml" filepath="$PROJECT_DIR$/.idea/MovieManagerCore.iml" />
+    </modules>
+  </component>
+</project>

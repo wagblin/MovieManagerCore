@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="MMA-ExpositionLayer" />
+        <module name="MMA-DomainLayer" />
+        <module name="MMA-ApplicationLayer" />
+        <module name="MMA-InfrastructureLayer" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="MMA-ApplicationLayer" target="17" />
+      <module name="MMA-DomainLayer" target="17" />
+      <module name="MMA-ExpositionLayer" target="17" />
+      <module name="MMA-InfrastructureLayer" target="17" />
+      <module name="MovieManagerCore" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
